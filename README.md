@@ -1,3 +1,9 @@
+# React Todo App
+
+> **Bu proje, OpenAI'nin Cursor IDE'si ile yazılmıştır. Kodun tamamı yapay zeka destekli olarak oluşturulmuş ve test edilmiştir. Proje, GitHub MCP (Model Code Push) client kullanılarak otomatik olarak yeni bir GitHub reposuna pushlanmıştır.**
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -52,3 +58,4 @@ export default tseslint.config({
   },
 })
 ```
+
